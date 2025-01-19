@@ -1,1 +1,1 @@
-# This Repository will include important question of Pyspark from basics to advanced
+# This Repository includes important question of Pyspark from basics to advanced
